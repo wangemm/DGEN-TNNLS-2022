@@ -1,7 +1,7 @@
 # DGEN-TNNLS-2022
 This repo contains the demo code and data of our IEEE TNNLS'2022 paper Seeing All From a Few: Nodes Selection Using Graph Pooling for Graph Clustering
 
->IEEE Xplore: [Partially View-aligned Representation Learning via Cross-view Graph Contrastive Network](https://ieeexplore.ieee.org/document/10471595)
+>IEEE Xplore: [Seeing All From a Few: Nodes Selection Using Graph Pooling for Graph Clustering](https://ieeexplore.ieee.org/document/9913735/)
 
 ## Requirements
 
@@ -19,12 +19,12 @@ torch-geometric>=2.1.0
 If you find our work useful in your research, please consider citing:
 
 ```latex
-@ARTICLE{10471595,
-  author={Wang, Yiming and Chang, Dongxia and Fu, Zhiqiang and Wen, Jie and Zhao, Yao},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Partially View-aligned Representation Learning via Cross-view Graph Contrastive Network}, 
-  year={2024},
+@ARTICLE{9913735,
+  author={Wang, Yiming and Chang, Dongxia and Fu, Zhiqiang and Zhao, Yao},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Seeing All From a Few: Nodes Selection Using Graph Pooling for Graph Clustering}, 
+  year={2022},
   volume={},
   number={},
-  pages={1-1},
-  doi={10.1109/TCSVT.2024.3376720}}
+  pages={1-7},
+  doi={10.1109/TNNLS.2022.3210370}}
